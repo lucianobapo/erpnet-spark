@@ -137,7 +137,7 @@
                                 </ul>
                             </div>
                             <div>
-                                <img src="https://placehold.co/550x400" style="width: 100%;">
+                                <img src="https://storage.googleapis.com/ilhanet-140808.appspot.com/ilhanet.com-wp/2017/04/57dc0459-franquia-de-software-erp_2-768x467.jpg" style="width: 100%;">
                             </div>
                         </div>
                     </div>
