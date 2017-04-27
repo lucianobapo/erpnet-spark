@@ -1,0 +1,23 @@
+/*
+ * Spark Variables...
+ */
+@import "themes/spark/variables";
+
+/*
+ * Bootstrap CSS...
+ */
+@import "../../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$fa-font-path: "../../fonts";
+@import "../../../node_modules/font-awesome/scss/font-awesome";
+
+
+/**
+ * Spark Essentials...
+ */
+@import "essentials";
+
+/*
+ * Spark Styling...
+ */
+@import "themes/spark/spark";
